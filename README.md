@@ -48,8 +48,6 @@ Telegram-бот, использующий российские нейросет�
 - **Платежная система**: YooKassa (через Telegram Payments)
 - **Система логирования**: стандартный модуль logging Python
 
-  скрин 1 - https://github.com/Ash-code-noCode/ai_assistant/blob/main/1.png?raw=true
-  скрин 2 - https://github.com/Ash-code-noCode/ai_assistant/blob/main/2.png?raw=true
-  скрин 3 - https://github.com/Ash-code-noCode/ai_assistant/blob/main/3.png?raw=true
-  скрин 4 - https://github.com/Ash-code-noCode/ai_assistant/blob/main/4.png?raw=true
+ Скриншоты интерфейса
+<table> <tr> <td align="center"> <strong>Диалог с ботом</strong><br> <img src="https://github.com/Ash-code-noCode/ai_assistant/blob/main/1.png?raw=true" width="300"> </td> <td align="center"> <strong>Меню команд</strong><br> <img src="https://github.com/Ash-code-noCode/ai_assistant/blob/main/2.png?raw=true" width="300"> </td> </tr> <tr> <td align="center"> <strong>Оплата подписки</strong><br> <img src="https://github.com/Ash-code-noCode/ai_assistant/blob/main/3.png?raw=true" width="300"> </td> <td align="center"> <strong>Успешная подписка</strong><br> <img src="https://github.com/Ash-code-noCode/ai_assistant/blob/main/4.png?raw=true" width="300"> </td> </tr> </table>
 
