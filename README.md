@@ -48,8 +48,8 @@ Telegram-бот, использующий российские нейросет�
 - **Платежная система**: YooKassa (через Telegram Payments)
 - **Система логирования**: стандартный модуль logging Python
 
-  скрин 1 -
-  скрин 2 -
-  скрин 3 -
-  скрин 4 - 
+  скрин 1 - https://github.com/Ash-code-noCode/ai_assistant/blob/main/1.png?raw=true
+  скрин 2 - https://github.com/Ash-code-noCode/ai_assistant/blob/main/2.png?raw=true
+  скрин 3 - https://github.com/Ash-code-noCode/ai_assistant/blob/main/3.png?raw=true
+  скрин 4 - https://github.com/Ash-code-noCode/ai_assistant/blob/main/4.png?raw=true
 
